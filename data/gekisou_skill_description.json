@@ -1,0 +1,98 @@
+[
+  {
+    "_id": "Gekisou_Skill_Description_1",
+    "_english": "{0 < effects[0].time ? \"From the start of JUST GEKISO, \" : \"\"} {0 <effects[0].time ? \"for \" ~ effects[0].time ~ \" sec.\" : \"During JUST GEKISO\"}\n, JUST Count gain +{effects[0].value}"
+  },
+  {
+    "_id": "Gekisou_Skill_Description_2",
+    "_english": "{0 < effects[0].time ? \"From the start of JUST GEKISO, \" : \"\"} {0 <effects[0].time ? \"for \" ~ effects[0].time ~ \" sec.\" : \"During JUST GEKISO\"}\n, JUST Count gain +{effects[0].value}"
+  },
+  {
+    "_id": "Gekisou_Skill_Description_3",
+    "_english": "{0 < effects[0].time ? \"From the start of JUST GEKISO, \" : \"\"} {0 <effects[0].time ? \"for \" ~ effects[0].time ~ \" sec.\" : \"During JUST GEKISO\"}\n, JUST Count gain +{effects[0].value}"
+  },
+  {
+    "_id": "Gekisou_Skill_Description_4",
+    "_english": "{0 < effects[0].time ? \"From the start of COMBO GEKISO, \" : \"\"}{0 <effects[0].time ? \"for \" ~ effects[0].time ~ \" sec.\" : \"During COMBO GEKISO\"}\n, GEKISO COMBO gain +{effects[0].value}"
+  },
+  {
+    "_id": "Gekisou_Skill_Description_5",
+    "_english": "{0 < effects[0].time ? \"From the start of COMBO GEKISO, \" : \"\"}{0 <effects[0].time ? \"for \" ~ effects[0].time ~ \" sec.\" : \"During COMBO GEKISO\"}\n, GEKISO COMBO gain +{effects[0].value}"
+  },
+  {
+    "_id": "Gekisou_Skill_Description_6",
+    "_english": "{0 < effects[0].time ? \"From the start of COMBO GEKISO, \" : \"\"}{0 <effects[0].time ? \"for \" ~ effects[0].time ~ \" sec.\" : \"During COMBO GEKISO\"}\n, GEKISO COMBO gain +{effects[0].value}"
+  },
+  {
+    "_id": "Gekisou_Skill_Description_7",
+    "_english": "{0 <effects[0].time ? \"From the start of LUCK GEKISO, \" : \"\"} {0 <effects[0].time? \"for\" ~ effects[0].time ~ \" sec.\" : \"During LUCK GEKISO\"}, Trigger Gauge gain +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Gekisou_Skill_Description_8",
+    "_english": "{0 <effects[0].time ? \"From the start of LUCK GEKISO, \" : \"\"} {0 <effects[0].time? \"for\" ~ effects[0].time ~ \" sec.\" : \"During LUCK GEKISO\"}, Trigger Gauge gain +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Gekisou_Skill_Description_9",
+    "_english": "{0 <effects[0].time ? \"From the start of LUCK GEKISO, \" : \"\"} {0 <effects[0].time? \"for\" ~ effects[0].time ~ \" sec.\" : \"During LUCK GEKISO\"}, Trigger Gauge gain +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Gekisou_Skill_Description_10",
+    "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST Counts,\nJUST Count gain +{effects[0].value} each time (up to 4 times)."
+  },
+  {
+    "_id": "Gekisou_Skill_Description_11",
+    "_english": "During JUST GEKISO, for every {effects[0].cCon.values[0]} JUST Counts,\nJUST Count gain +{effects[0].value} each time (up to 5 times)."
+  },
+  {
+    "_id": "Gekisou_Skill_Description_12",
+    "_english": "While maintaining a GEKISO COMBO of {effects[0].tCon[0][0].values[0]} or higher,\nGEKISO COMBO gain +{effects[0].value}."
+  },
+  {
+    "_id": "Gekisou_Skill_Description_13",
+    "_english": "While maintaining a GEKISO COMBO of {effects[0].tCon[0][0].values[0]} or higher,\nGEKISO COMBO gain +{effects[0].value}."
+  },
+  {
+    "_id": "Gekisou_Skill_Description_14",
+    "_english": "When LUCKY RUSH is drawn,\ngain +{effects[0].value} LUCK Pts."
+  },
+  {
+    "_id": "Gekisou_Skill_Description_15",
+    "_english": "When LUCKY RUSH is drawn,\ngain +{effects[0].value} LUCK Pts."
+  },
+  {
+    "_id": "Gekisou_Skill_Description_16",
+    "_english": "From the 1st JUST HIT onward, JUST Count gain +{effects[0].value}.\nIf LIFE is {effects[1].con[0][0].values[0]} or higher, JUST Count gain +{effects[1].value}."
+  },
+  {
+    "_id": "Gekisou_Skill_Description_17",
+    "_english": "From the 1st JUST HIT onward, JUST Count gain +{effects[0].value}.\nIf LIFE is {effects[1].con[0][0].values[0]} or higher, JUST Count gain +{effects[1].value}."
+  },
+  {
+    "_id": "Gekisou_Skill_Description_18",
+    "_english": "While maintaining a GEKISO COMBO,\nGEKISO COMBO gain +{effects[0].value}.\nIf LIFE is {effects[1].tCon[0][1].values[0]} or higher,\nGEKISO COMBO gain +{effects[1].value}."
+  },
+  {
+    "_id": "Gekisou_Skill_Description_19",
+    "_english": "While maintaining a GEKISO COMBO,\nGEKISO COMBO gain +{effects[0].value}.\nIf LIFE is {effects[1].tCon[0][1].values[0]} or higher,\nGEKISO COMBO gain +{effects[1].value}."
+  },
+  {
+    "_id": "Gekisou_Skill_Description_20",
+    "_english": "Activates at the start of LUCK GEKISO at a {effects[0].con[0][1].values[0]:F0}% chance, gaining {effects[0].value/100:F1}% Trigger Gauge.\nIf LIFE is 700 or higher, activates at a {effects[1].con[0][1].values[0]:F0}% chance."
+  },
+  {
+    "_id": "Gekisou_Skill_Description_21",
+    "_english": "Activates at the start of LUCK GEKISO at a {effects[0].con[0][1].values[0]:F0}% chance, gaining {effects[0].value/100:F1}% Trigger Gauge.\nIf LIFE is 700 or higher, activates at a {effects[1].con[0][1].values[0]:F0}% chance."
+  },
+  {
+    "_id": "Gekisou_Skill_Description_22",
+    "_english": "{0 < effects[0].time ? \"For\" : \"\"}{0 < effects[0].time ? effects[0].time ~ \" seconds after LUCK GEKISO begins\" : \"During LUCK GEKISO\"},\nGain Trigger Gauge +{effects[0].value/100:F1}%\nLife Loss from BAD or lower - {effects[1].value/100:F1} %."
+  },
+  {
+    "_id": "Gekisou_Skill_Description_23",
+    "_english": "{0 < effects[0].time ? \"For\" : \"\"}{0 < effects[0].time ? effects[0].time ~ \" seconds after COMBO GEKISO begins\" : \"During COMBO GEKISO\"},\nGain GEKISO Combo amount +{effects[0].value}%\nLife Loss from BAD or lower - {effects[1].value/100:F1}%."
+  },
+  {
+    "_id": "Gekisou_Skill_Description_24",
+    "_english": "{0 < effects[0].time ? \"For \" : \"\"}{0 < effects[0].time ? effects[0].time ~ \" seconds after JUST GEKISO begins \" : \"During JUST GEKISO\"},\nGain JUST amount +{effects[0].value} \nLife Loss from BAD or lower -{effects[1].value/100:F1}%."
+  }
+]

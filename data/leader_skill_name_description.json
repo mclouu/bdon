@@ -1,0 +1,898 @@
+[
+  {
+    "_id": "Leader_Skill_Name_Description_1",
+    "_english": "MyGO!!!!! Member's\nall parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_2",
+    "_english": "MyGO!!!!! Member's\ntechnique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_3",
+    "_english": "MyGO!!!!! Member's\nvisual +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_4",
+    "_english": "MyGO!!!!! Member's\nperformance +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_5",
+    "_english": "Ave Mujica Member's\nall parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_6",
+    "_english": "Ave Mujica Member's\ntechnique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_7",
+    "_english": "Ave Mujica Member's\nvisual +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_8",
+    "_english": "Ave Mujica Member's\nperformance +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_9",
+    "_english": "Mugendai MewType Member's\nall parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_10",
+    "_english": "Mugendai MewType Member's\ntechnique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_11",
+    "_english": "Mugendai MewType Member's\nvisual +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_12",
+    "_english": "Mugendai MewType Member's\nperformance +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_13",
+    "_english": "millsage Member's\nall parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_14",
+    "_english": "millsage Member's\ntechnique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_15",
+    "_english": "millsage Member's\nvisual +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_16",
+    "_english": "millsage Member's\nperformance +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_17",
+    "_english": "Ikka Dumb Rock! Member's\nall parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_18",
+    "_english": "Ikka Dumb Rock! Member's\ntechnique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_19",
+    "_english": "Ikka Dumb Rock! Member's\nvisual +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_20",
+    "_english": "Ikka Dumb Rock! Member's\nperformance +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_21",
+    "_english": "MyGO!!!!! Member's\nall parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_22",
+    "_english": "MyGO!!!!! Member's\ntechnique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_23",
+    "_english": "MyGO!!!!! Member's\nvisual +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_24",
+    "_english": "MyGO!!!!! Member's\nperformance +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_25",
+    "_english": "Ave Mujica Member's\nall parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_26",
+    "_english": "Ave Mujica Member's\ntechnique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_27",
+    "_english": "Ave Mujica Member's\nvisual +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_28",
+    "_english": "Ave Mujica Member's\nperformance +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_29",
+    "_english": "Mugendai MewType Member's\nall parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_30",
+    "_english": "Mugendai MewType Member's\ntechnique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_31",
+    "_english": "Mugendai MewType Member's\nvisual +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_32",
+    "_english": "Mugendai MewType Member's\nperformance +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_33",
+    "_english": "millsage Member's\nall parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_34",
+    "_english": "millsage Member's\ntechnique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_35",
+    "_english": "millsage Member's\nvisual +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_36",
+    "_english": "millsage Member's\nperformance +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_37",
+    "_english": "Ikka Dumb Rock! Member's\nall parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_38",
+    "_english": "Ikka Dumb Rock! Member's\ntechnique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_39",
+    "_english": "Ikka Dumb Rock! Member's\nvisual +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_40",
+    "_english": "Ikka Dumb Rock! Member's\nperformance +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_41",
+    "_english": "MyGO!!!!! Member's\nall parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_42",
+    "_english": "MyGO!!!!! Member's\ntechnique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_43",
+    "_english": "MyGO!!!!! Member's\nvisual +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_44",
+    "_english": "MyGO!!!!! Member's\nperformance +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_45",
+    "_english": "Ave Mujica Member's\nall parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_46",
+    "_english": "Ave Mujica Member's\ntechnique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_47",
+    "_english": "Ave Mujica Member's\nvisual +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_48",
+    "_english": "Ave Mujica Member's\nperformance +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_49",
+    "_english": "MyGO!!!!! Member's performance +{effects[0].value/100:F1}%, and the performance of Member with Life type LIVE Skill +{effects[1].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_50",
+    "_english": "MyGO!!!!! Member's visual +{effects[0].value/100:F1}%, and the visual of Member with Simple type LIVE Skill +{effects[1].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_51",
+    "_english": "Ave Mujica Member's technique +{effects[0].value/100:F1}%, and the technique of Member with Simple type LIVE Skill +{effects[1].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_52",
+    "_english": "Ave Mujica Member's technique +{effects[0].value/100:F1}%, and the technique of Member with HIT type LIVE Skill +{effects[1].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_53",
+    "_english": "Azure Member's performance +{effects[0].value/100:F1}%, and Mugendai MewType Member's performance +{effects[1].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_54",
+    "_english": "Mugendai MewType Member's visual +{effects[0].value/100:F1}%, and the visual of Member with JUST type GEKISO Skill +{effects[1].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_55",
+    "_english": "Ruby Member's visual +{effects[0].value/100:F1}%, and millsage Member's visual +{effects[1].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_56",
+    "_english": "millsage Member's technique +{effects[0].value/100:F1}%, and the technique of Member with COMBO type GEKISO Skill +{effects[1].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_57",
+    "_english": "Amber Member's technique +{effects[0].value/100:F1}%, and Ikka Dumb Rock! Member's technique +{effects[1].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_58",
+    "_english": "Ikka Dumb Rock! Member's performance +{effects[0].value/100:F1}%, and the performance of Member with LUCK type GEKISO Skill +{effects[1].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_59",
+    "_english": "Ikka Dumb Rock! Member's performance +{effects[0].value/100:F1}%, and Violet's Member +{effects[1].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_60",
+    "_english": "millsage Member's performance +{effects[0].value/100:F1}%, and the performance of Azure Members +{effects[1].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_61",
+    "_english": "MyGO!!!!! Member's technique +{effects[0].value/100:F1}%.\nAdditionally, for each Member you include who is different from Amber (up to 2 Members):\nAll Members' technique +24% (max +48%)"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_62",
+    "_english": "Ave Mujica Member's visual +{effects[0].value/100:F1}%.\nAdditionally, for each Member you include who is different from Jade (up to 2 Members):\nAll Members' visual +24% (max +48%)"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90001",
+    "_english": "MyGO!!!!! Member's all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90002",
+    "_english": "MyGO!!!!! Member's all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90003",
+    "_english": "MyGO!!!!! Member's all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90004",
+    "_english": "MyGO!!!!! Member's performance +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90005",
+    "_english": "MyGO!!!!! Member's performance +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90006",
+    "_english": "MyGO!!!!! Member's performance +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90007",
+    "_english": "MyGO!!!!! Member's technique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90008",
+    "_english": "MyGO!!!!! Member's technique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90009",
+    "_english": "MyGO!!!!! Member's technique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90010",
+    "_english": "MyGO!!!!! Member's visual +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90011",
+    "_english": "MyGO!!!!! Member's visual +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90012",
+    "_english": "MyGO!!!!! Member's visual +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90013",
+    "_english": "Ave Mujica Member's all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90014",
+    "_english": "Ave Mujica Member's all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90015",
+    "_english": "Ave Mujica Member's all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90016",
+    "_english": "Ave Mujica Member's performance +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90017",
+    "_english": "Ave Mujica Member's performance +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90018",
+    "_english": "Ave Mujica Member's performance +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90019",
+    "_english": "Ave Mujica Member's technique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90020",
+    "_english": "Ave Mujica Member's technique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90021",
+    "_english": "Ave Mujica Member's technique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90022",
+    "_english": "Ave Mujica Member's visual +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90023",
+    "_english": "Ave Mujica Member's visual +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90024",
+    "_english": "Ave Mujica Member's visual +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90025",
+    "_english": "Mugendai MewType Member's all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90026",
+    "_english": "Mugendai MewType Member's all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90027",
+    "_english": "Mugendai MewType Member's all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90028",
+    "_english": "Mugendai MewType Member's performance +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90029",
+    "_english": "Mugendai MewType Member's performance +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90030",
+    "_english": "Mugendai MewType Member's performance +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90031",
+    "_english": "Mugendai MewType Member's technique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90032",
+    "_english": "Mugendai MewType Member's technique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90033",
+    "_english": "Mugendai MewType Member's technique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90034",
+    "_english": "Mugendai MewType Member's visual +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90035",
+    "_english": "Mugendai MewType Member's visual +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90036",
+    "_english": "Mugendai MewType Member's visual +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90037",
+    "_english": "millsage Member's all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90038",
+    "_english": "millsage Member's all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90039",
+    "_english": "millsage Member's all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90040",
+    "_english": "millsage Member's performance +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90041",
+    "_english": "millsage Member's performance +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90042",
+    "_english": "millsage Member's performance +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90043",
+    "_english": "millsage Member's technique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90044",
+    "_english": "millsage Member's technique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90045",
+    "_english": "millsage Member's technique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90046",
+    "_english": "millsage Member's visual +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90047",
+    "_english": "millsage Member's visual +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90048",
+    "_english": "millsage Member's visual +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90049",
+    "_english": "Ikka Dumb Rock! Member's all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90050",
+    "_english": "Ikka Dumb Rock! Member's all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90051",
+    "_english": "Ikka Dumb Rock! Member's all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90052",
+    "_english": "Ikka Dumb Rock! Member's performance +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90053",
+    "_english": "Ikka Dumb Rock! Member's performance +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90054",
+    "_english": "Ikka Dumb Rock! Member's performance +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90055",
+    "_english": "Ikka Dumb Rock! Member's technique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90056",
+    "_english": "Ikka Dumb Rock! Member's technique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90057",
+    "_english": "Ikka Dumb Rock! Member's technique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90058",
+    "_english": "Ikka Dumb Rock! Member's visual +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90059",
+    "_english": "Ikka Dumb Rock! Member's visual +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90060",
+    "_english": "Ikka Dumb Rock! Member's visual +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90061",
+    "_english": "Ruby type Member's all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90062",
+    "_english": "Ruby type Member's all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90063",
+    "_english": "Ruby type Member's all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90064",
+    "_english": "Azure type Member's performance +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90065",
+    "_english": "Azure type Member's performance +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90066",
+    "_english": "Azure type Member's performance +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90067",
+    "_english": "Jade type Member's technique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90068",
+    "_english": "Jade type Member's technique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90069",
+    "_english": "Jade type Member's technique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90070",
+    "_english": "Amber type Member's technique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90071",
+    "_english": "Amber type Member's technique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90072",
+    "_english": "Amber type Member's technique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90073",
+    "_english": "Violet type Member's all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90074",
+    "_english": "Violet type Member's all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90075",
+    "_english": "Violet type Member's all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90079",
+    "_english": "All parameters of Member with Score Up type LIVE Skill +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90080",
+    "_english": "All parameters of Member with Score Up type LIVE Skill +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90081",
+    "_english": "All parameters of Member with Score Up type LIVE Skill +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90082",
+    "_english": "All parameters of Member with Life Recovery type LIVE Skill +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90083",
+    "_english": "All parameters of Member with Life Recovery type LIVE Skill +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90084",
+    "_english": "All parameters of Member with Life Recovery type LIVE Skill +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90085",
+    "_english": "All parameters of Member with HIT Assist type LIVE Skill +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90086",
+    "_english": "All parameters of Member with HIT Assist type LIVE Skill +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90087",
+    "_english": "All parameters of Member with HIT Assist type LIVE Skill +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90088",
+    "_english": "Performance of Member with LUCK type GEKISO Skill +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90089",
+    "_english": "Performance of Member with LUCK type GEKISO Skill +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90090",
+    "_english": "Performance of Member with LUCK type GEKISO Skill +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90091",
+    "_english": "Technique of Member with COMBO type GEKISO Skill +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90092",
+    "_english": "Technique of Member with COMBO type GEKISO Skill +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90093",
+    "_english": "Technique of Member with COMBO type GEKISO Skill +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90094",
+    "_english": "Visual of Member with JUST type GEKISO Skill +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90095",
+    "_english": "Visual of Member with JUST type GEKISO Skill +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90096",
+    "_english": "Visual of Member with JUST type GEKISO Skill +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90097",
+    "_english": "MyGO!!!!! Member's performance +{effects[0].value/100:F1}%, and all parameters of Member with JUST type GEKISO Skill +{effects[1].value/100:F1}% "
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90098",
+    "_english": "Ave Mujica Member's technique +{effects[0].value/100:F1}%, and all parameters of Member with Score Up type LIVE Skill +{effects[1].value/100:F1}% "
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90099",
+    "_english": "Mugendai MewType Member's visual +{effects[0].value/100:F1}%, and Amber type Member's all parameters +{effects[1].value/100:F1}% "
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90100",
+    "_english": "MyGO!!!!! Member's performance +{effects[0].value/100:F1}%\nThe performance of Member with LIFE Bonus type LIVE Skill +{effects[1].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90101",
+    "_english": "MyGO!!!!! Member's performance and visual +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90102",
+    "_english": "MyGO!!!!! Member's visual +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90103",
+    "_english": "MyGO!!!!! Member's all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90104",
+    "_english": "MyGO!!!!! Member's technique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90105",
+    "_english": "MyGO!!!!! Member's performance +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90106",
+    "_english": "MyGO!!!!! Member's performance and visual +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90107",
+    "_english": "MyGO!!!!! Member's visual +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90108",
+    "_english": "MyGO!!!!! Member's all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90109",
+    "_english": "MyGO!!!!! Member's technique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90110",
+    "_english": "MyGO!!!!! Member's performance +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90111",
+    "_english": "Ave Mujica Member's +{effects[0].value/100:F1}%\nThe technique of Member with Specific HIT Bonus type LIVE Skill +{effects[1].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90112",
+    "_english": "Ave Mujica Member's performance +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90113",
+    "_english": "Ave Mujica Member's all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90114",
+    "_english": "Ave Mujica Member's technique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90115",
+    "_english": "Ave Mujica Member's visual +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90116",
+    "_english": "Ave Mujica Member's visual and technique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90117",
+    "_english": "Ave Mujica Member's performance +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90118",
+    "_english": "Ave Mujica Member's all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90119",
+    "_english": "Ave Mujica Member's technique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90120",
+    "_english": "Ave Mujica Member's visual +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90121",
+    "_english": "Ave Mujica Member's visual and technique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90122",
+    "_english": "If the formation only has Ruby Members, technique +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90123",
+    "_english": "For every Ruby Member in the formation, all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90124",
+    "_english": "For every Member type in the formation, all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90125",
+    "_english": "When playing a Ruby Song, all parameters +{effects[0].value:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90126",
+    "_english": "If the lineup only has MyGO!!!!! Members, all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90127",
+    "_english": "For every MyGO!!!!! Member in the lineup, all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90128",
+    "_english": "For every band in the lineup, all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90131",
+    "_english": "For every MyGO!!!!! Member excluding yourself, all parameters +{effects[0].value/100:F1}%, and if all Members are MyGO!!!!! Members, all parameters +{effects[1].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90132",
+    "_english": "If the lineup only has Ikka Dumb Rock! Members, all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90133",
+    "_english": "If the lineup only has Ikka Dumb Rock! Members, all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90134",
+    "_english": "If the lineup only has Ave Mujica Members, all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90135",
+    "_english": "If the lineup only has Ave Mujica Members, all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90136",
+    "_english": "If the lineup only has Mugendai MewType Members, all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90137",
+    "_english": "If the lineup only has Mugendai MewType Members, all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90138",
+    "_english": "If the lineup only has millsage Members, all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90139",
+    "_english": "If the lineup only has millsage Members, all parameters +{effects[0].value:F1}"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90140",
+    "_english": "If the lineup only has MyGO!!!!! Members, all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90141",
+    "_english": "For every Azure Member in the lineup, all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90142",
+    "_english": "For every Jade Member in the lineup, all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90143",
+    "_english": "For every Amber Member in the lineup, all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90144",
+    "_english": "For every Violet Member in the lineup, all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90145",
+    "_english": "For every MyGO!!!!! Member in the lineup, all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90146",
+    "_english": ""
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90147",
+    "_english": ""
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90148",
+    "_english": ""
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90149",
+    "_english": ""
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90150",
+    "_english": ""
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90151",
+    "_english": ""
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90152",
+    "_english": ""
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90153",
+    "_english": ""
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90154",
+    "_english": ""
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90155",
+    "_english": ""
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90156",
+    "_english": ""
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90157",
+    "_english": ""
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90158",
+    "_english": "For every MyGO!!!!! Member in the lineup, all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90159",
+    "_english": "For every Ave Mujica Member in the lineup, all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90160",
+    "_english": "For every Ave Mujica Member in the lineup, all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90161",
+    "_english": "For every Mugendai MewType Member in the lineup, all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90162",
+    "_english": "For every Mugendai MewType Member in the lineup, all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90163",
+    "_english": "For every millsage Member in the lineup, all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90164",
+    "_english": "For every millsage Member in the lineup, all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90165",
+    "_english": "For every Ikka Dumb Rock! Member in the lineup, all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90166",
+    "_english": "For every Ikka Dumb Rock! Member in the lineup, all parameters +{effects[0].value/100:F1}%"
+  },
+  {
+    "_id": "Leader_Skill_Name_Description_90168",
+    "_english": "[For Verification, No Effect] If the lineup only has Ruby Members, all parameters +{effects[0].value/100:F1}%"
+  }
+]

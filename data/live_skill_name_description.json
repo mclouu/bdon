@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "Live_Skill_Name_Description_1",
+    "_english": "[Simple] For {effects[0].time:F1} seconds, increases Score by {effects[0].value/100:F1}%."
+  },
+  {
+    "_id": "Live_Skill_Name_Description_2",
+    "_english": "[Simple] For {effects[0].time:F1} seconds, increases Score by {effects[0].value/100:F1}%."
+  },
+  {
+    "_id": "Live_Skill_Name_Description_3",
+    "_english": "[Simple] For {effects[0].time:F1} seconds, increases Score by {effects[0].value/100:F1}%."
+  },
+  {
+    "_id": "Live_Skill_Name_Description_4",
+    "_english": "[HIT] For {effects[0].time:F1} seconds, Score is increased by {effects[0].value/100:F1}% for PERFECT HIT or higher."
+  },
+  {
+    "_id": "Live_Skill_Name_Description_5",
+    "_english": "[HIT] For {effects[0].time:F1} seconds, Score is increased by {effects[0].value/100:F1}% for PERFECT HIT or higher."
+  },
+  {
+    "_id": "Live_Skill_Name_Description_6",
+    "_english": "[Life] For {effects[0].time:F1} seconds, Score is increased by {effects[0].value/100:F1}%.\nIf LIFE is 700 or above upon activation,\nScore is increased by {effects[1].value/100:F1}%."
+  },
+  {
+    "_id": "Live_Skill_Name_Description_7",
+    "_english": "[Life] For {effects[0].time:F1} seconds, Score is increased by {effects[0].value/100:F1}%.\nIf LIFE is 700 or above upon activation,\nScore is increased by {effects[1].value/100:F1}%."
+  },
+  {
+    "_id": "Live_Skill_Name_Description_8",
+    "_english": "[Simple] For {effects[0].time:F1} seconds, increases Score by {effects[0].value/100:F1}%."
+  },
+  {
+    "_id": "Live_Skill_Name_Description_9",
+    "_english": "\"[Judgment] For 5 sec., score from PERFECT or higher judgments increases by {effects[0].value/100:F1}%.<br>Until a GOOD or lower judgment occurs, score from PERFECT or higher judgments increases by {(effects[0].value + effects[1].value)/100:F1}%.\""
+  },
+  {
+    "_id": "Live_Skill_Name_Description_10",
+    "_english": "[Life] For 5 seconds, Score is increased by {effects[0].value/100:F1}%.\nIf Life is 900 or above upon activation,\nScore is increased by {effects[1].value/100:F1}%."
+  }
+]
